@@ -2,7 +2,7 @@ import React from 'react'
 import './cta.css'
 
 
-function CTA() {
+const CTA = () => {
   return (
     <div>
       CTA

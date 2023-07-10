@@ -3,7 +3,7 @@ import './header.css'
 import people from '../../assets/people.png'
 import ai from '../../assets/ai.png'
 
-function Header() {
+const Header = () => {
   return (
     <div className='gpt3__header section__padding' id='home'>
       <div className='gpt3__header-content'>

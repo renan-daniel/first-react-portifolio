@@ -14,7 +14,7 @@ const Menu = () => (
   </>
 )
 
-function Navbar() {
+const Navbar = () => {
   const [toogleMenu, setToogleMenu] = useState(false);
 
   return (
